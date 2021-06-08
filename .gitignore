@@ -1,0 +1,5 @@
+/.idea/
+/target/
+/**/target/
+/client/src/main/java/service/
+/client/service/
